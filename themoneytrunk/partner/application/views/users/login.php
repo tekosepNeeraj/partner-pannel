@@ -80,7 +80,7 @@
             </div>
           </div>
         </form>
-        <span><a href="<?php echo base_url() ?>forgotPassword">Forgot Password</a></span>
+        <span><a href="<?php echo base_url() ?>forgotPassword">Forgot Password tgttgtttggt</a></span>
 
 <span><a href="<?php echo base_url()?>partner-register" style="margin-left:173px">Register</a></span>
         </div>
